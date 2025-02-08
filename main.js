@@ -4,7 +4,7 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChang
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBGQvyRkdUnKx6y8BKereJwlhUt7tb9rwo",
+    apiKey: "",
     authDomain: "reliadata-52116.firebaseapp.com",
     projectId: "reliadata-52116",
     storageBucket: "reliadata-52116.appspot.com",
